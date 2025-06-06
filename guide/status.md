@@ -7,7 +7,7 @@ There are currently issues with restarting/shutting down the device while in Win
 
 #### Features
 - [x] Audio (Speakers)
-- [x] Audio (3.5mm)
+- [ ] Audio (3.5mm)
 - [x] Battery percentage
 - [x] Bluetooth
 - [x] Brightness
